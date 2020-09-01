@@ -18,6 +18,6 @@ Some other useful commands:
 * C-x b: Switch to another buffer by entering its name
 * C-x C-b: See a list of all current buffers
 Getting help within Emacs: In addition to the help button/menu on the right...
-* C-h: Hitting this will display a short message in the minibuffer: 𝙲-𝚑 (𝚃𝚢𝚙𝚎 ? 𝚏𝚘𝚛 𝚏𝚞𝚛𝚝𝚑𝚎𝚛 𝚘𝚙𝚝𝚒𝚘𝚗𝚜) .
+* C-h: Hitting this will display a short message in the minibuffer: 𝙲-𝚑 (𝚃𝚢𝚙𝚎 ? 𝚏𝚘𝚛 𝚏𝚞𝚛𝚝𝚑𝚎𝚛 𝚘𝚙𝚝𝚒𝚘𝚗𝚜).
 * C-h b: Key bindings. This lists all key bindings that are valid for the current mode. Note that key bindings change from mode to mode.
-* C-h a: Command apropos. After typing 𝙲-𝚑  a you can type a symbol and a buffer will appear that lists all symbols and functions that match that phrase.
+* C-h a: Command apropos. After typing 𝙲-𝚑 a you can type a symbol and a buffer will appear that lists all symbols and functions that match that phrase.
